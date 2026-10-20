@@ -63,18 +63,37 @@ An AI-powered career-readiness platform designed to help candidates practise int
 [![Repository](https://img.shields.io/badge/VIEW%20PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kit29-25bad068/CareerTwin-AI)
 [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://careertwin-ai-green.vercel.app/)
 
+### 📄 Resume & CV Analyzer
+**AI-powered resume analysis and job-requirement matching.**
+
+A full-stack application that analyzes job descriptions and compares candidate resumes against specific job requirements, highlighting evidence-backed matches, skill gaps, and resume insights.
+
+- 📋 Extracts required and preferred job criteria
+- 📂 Processes PDF and DOCX resumes
+- 🔎 Identifies matching skills, missing evidence, and skill gaps
+- 📊 Provides a recruiter dashboard for comparing candidates
+- 🧠 Combines LLM-assisted analysis with deterministic Python scoring
+- 🔒 Designed to minimize candidate data retention
+
+**Tech Stack:** Python, FastAPI, React, Vite, JavaScript, PyMuPDF, python-docx, AI/LLM integration.
+
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0A192F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kit29-25bad068/Resume-CV-Analyzer)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-cv-analyzer.vercel.app/)
+
 ### 🛡️ GuardianBand
-**Exploring wearable safety through connected hardware.**
+**A wearable safety and monitoring system powered by ESP32.**
 
-An ESP32-based wearable safety and monitoring project exploring sensor integration, location tracking, and alert functionality.
+An AIoT-based wearable project designed to explore personal safety through connected hardware, sensor integration, location tracking, and alert functionality.
 
-- 🔌 ESP32-based hardware development
-- 📡 Sensor and location-module integration
-- ⚙️ Hardware-software interaction
+- 🔌 ESP32-based wearable hardware development
+- ❤️ Heart-rate and SpO₂ monitoring using a pulse oximeter sensor
+- 📍 GPS-based location tracking
+- 📳 Vibration motor for alert feedback
+- ⚙️ Hardware-software integration for wearable safety applications
 
-**Tech focus:** ESP32, embedded systems, sensors, IoT
+**Tech Focus:** ESP32, Embedded Systems, IoT, Sensor Integration, GPS, Wearable Technology
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kit29-25bad068/Guardian_Band)
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kit29-25bad068/Guardian_Band)
 
 ### 🍽️ Restaurant Reservation System
 **A Java application for restaurant table reservations.**
